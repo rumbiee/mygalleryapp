@@ -6,7 +6,7 @@ export default function Home() {
     return (
        
         <div>
-            <h2>Welcome to my Gallery app.</h2>
+            <h2>Welcome to my Gallery app reloaded.</h2>
             <Slideshow/>
             <h3>Cum sociis natoque penatibus et magnis dis</h3>
             <p>
@@ -26,6 +26,14 @@ export default function Home() {
             </p>
 
             <ul>
+                <li>
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                    Aenean commodo ligula eget dolor. Aenean massa.
+                </li>
+                <li>
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                    Aenean commodo ligula eget dolor. Aenean massa.
+                </li>
                 <li>
                     Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
                     Aenean commodo ligula eget dolor. Aenean massa.
